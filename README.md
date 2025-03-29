@@ -144,4 +144,6 @@ CyberCrime-Classification/
 2. **Cloud Deployment (AWS, GCP, etc.)**
    - Follow `deployment/cloud-deployment.md`
 
+Here I have attached the models and datasets as it consist of large size. kindly use it in respective path locally.
 
+link -> https://drive.google.com/drive/folders/1tvU-jqDaeOiddKijXmwdth6Q5fN2eWuR?usp=sharing
